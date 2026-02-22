@@ -18,7 +18,7 @@ public class DeliveryTest {
 
     @Test
     void shouldTestSuccessOrder() {
-        open("http://0.0.0.0:9999");
+        open("http://localhost:9999");
 
 
         $("[data-test-id='city'] input").setValue("Уфа");
