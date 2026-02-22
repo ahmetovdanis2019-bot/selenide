@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/ahmetovdanis2019-bot/selenide/actions/workflows/gradle.yml/badge.svg?event=push)](https://github.com/ahmetovdanis2019-bot/selenide/actions/workflows/gradle.yml)
